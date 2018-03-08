@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_794761fbf1d37fea6900f3195c42c4962611fd86/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_f666a8db20ccd5ae0afe3c2072c2e1ac87748204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_cca06c62542e75a8f81cbaa6818909a65df61f94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f26b13d7cf8df7a7f8f884d15652a4d281457a16">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9783ba797c815c72ab41ee558c6791f45054a20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_f666a8db20ccd5ae0afe3c2072c2e1ac87748204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_cca06c62542e75a8f81cbaa6818909a65df61f94/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_5be034ee343e9a5258938b338b9e4056960eddaf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_5be034ee343e9a5258938b338b9e4056960eddaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a2fa46f808f30735f07572f41cfeb2a39f41ccab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a2fa46f808f30735f07572f41cfeb2a39f41ccab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_fe1de2c2ae82df6e49e569adb50973a0e29beb61/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f15b053ef6668836c4d134de61d94dcbc7cb6bc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4320370122145d00b7299c702cbcd71caf258bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_fe1de2c2ae82df6e49e569adb50973a0e29beb61.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f15b053ef6668836c4d134de61d94dcbc7cb6bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_4320370122145d00b7299c702cbcd71caf258bcd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="370bb988e9d3aa2dc91efc169782836c2da70e29">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78b7352f5b47062847f0da1cfce75ae71df7b31c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_794761fbf1d37fea6900f3195c42c4962611fd86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_0011985e2e4575ac85c4aeb1a01fdb2e27736c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_0011985e2e4575ac85c4aeb1a01fdb2e27736c48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_9175b0ce62dadf4a4d30cee213d71cfce280d3a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_9ead4b2be9e39542a4fe8ae4e9830e6af271edc4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_9ead4b2be9e39542a4fe8ae4e9830e6af271edc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_32d6fee8de4b4a8ffd34aa068f2fb900316e311d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9175b0ce62dadf4a4d30cee213d71cfce280d3a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_32d6fee8de4b4a8ffd34aa068f2fb900316e311d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_6fab3b44011a4c986904d6b5ec9997e13b5aba6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_64fdcb5f738ea28813b45842c67eb41247520bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.16.1_5de92ccbc7e97c9181fcda55d24a37cbf0bc13ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6fab3b44011a4c986904d6b5ec9997e13b5aba6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_64fdcb5f738ea28813b45842c67eb41247520bd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/Users/ProLee/Downloads/MainFiles/DKTHero/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.16.1_5de92ccbc7e97c9181fcda55d24a37cbf0bc13ba.jar" />
+    </item>
+
+</items>

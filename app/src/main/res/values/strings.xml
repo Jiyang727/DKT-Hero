@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DKTHero</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_best_scores">BestScoresActivity</string>
+    <string name="title_activity_languages">LanguagesActivity</string>
+    <string name="title_activity_begin_test">BeginTestActivity</string>
+    <string name="title_activity_end_test">EndTestActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2896344095207692/8436504569</string>
+    <string name="interstitial_full_screen">ca-app-pub-2896344095207692/3489770966</string>
+    <string name="item_1">Item -1</string>
+    <string name="facebook_app_id">311984055840537</string>
+    <string name="cancel_login">Cancel login</string>
+    <string name="error_login">Error login</string>
+    <string name="title_activity_web">DKT Online</string>
+    <string name="Score_Num">00/00</string>
+</resources>
